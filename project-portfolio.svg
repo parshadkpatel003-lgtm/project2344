@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+<defs><linearGradient id="g" x2="0" y2="1"><stop stop-color="#fff7fa"/><stop offset="1" stop-color="#f0d5df"/></linearGradient></defs>
+<rect width="600" height="300" fill="url(#g)"/><circle cx="300" cy="150" r="118" fill="#e8b8ca" opacity=".45"/>
+<rect x="105" y="48" width="390" height="204" rx="16" fill="#70233f"/><rect x="119" y="62" width="362" height="176" rx="8" fill="#fffafd"/>
+<rect x="119" y="62" width="362" height="34" rx="8" fill="#8e3557"/><circle cx="139" cy="79" r="5" fill="#f8dce6"/><circle cx="157" cy="79" r="5" fill="#f8dce6"/><circle cx="175" cy="79" r="5" fill="#f8dce6"/>
+<rect x="145" y="119" width="105" height="92" rx="8" fill="#f4dce5"/><rect x="266" y="119" width="188" height="17" rx="8" fill="#d99aaf"/><rect x="266" y="150" width="160" height="11" rx="5" fill="#edc4d2"/><rect x="266" y="174" width="178" height="11" rx="5" fill="#edc4d2"/><rect x="266" y="198" width="92" height="16" rx="8" fill="#8e3557"/>
+<text x="197" y="174" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#70233f">PP</text></svg>
